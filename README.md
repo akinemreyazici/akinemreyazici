@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Kotlin , Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aknemreyzc](https://github.com/aknemreyzc)
-
 - 💬 Ask me about **Kotlin , C**
 
 - 📫 How to reach me **akinemreyazici01@gmail.com**
