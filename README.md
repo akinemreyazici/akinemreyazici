@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **akinemreyazici01@gmail.com**
 
-- ⚡ Fun fact **I am the only person in my university department who wants to become an Android Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
