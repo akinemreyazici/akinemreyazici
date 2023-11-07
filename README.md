@@ -3,9 +3,8 @@
 
 
 
-- 🔭 I’m currently working on [Turkcell Geleceği Yazanlar - Kotlin](https://github.com/aknemreyzc/turkcell_kotlin)
 
-- 🌱 I’m currently learning **Kotlin , Firebase**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Kotlin , C**
 
