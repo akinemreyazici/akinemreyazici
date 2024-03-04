@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** , **Flutter**
 
 - 💬 Ask me about **Kotlin , C**
 
